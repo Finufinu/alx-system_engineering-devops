@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls n "rm *"
+alias lsn"rm *"
