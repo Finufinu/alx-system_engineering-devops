@@ -1,8 +1,8 @@
 #include "main.h"
 /**
-* main - Entry point
+*main - starting point
 *
-* Return: 0 (success)
+*Return: 0 (success)
 */
 
 int main(void)
@@ -19,3 +19,4 @@ _putchar('n');
 _putchar('\n');
 return (0);
 }
+
